@@ -1,0 +1,17 @@
+1#Rafaela Costa#(12) 8269-8842#158.359.744-18#F
+2#Nicolas Fernandes Sousa#(61) 6177-5641#187.667.429-60#M
+3#Gabriel Alves Goncalves#(62) 6041-7917#248.916.055-96#M
+4#Estevan Silva Araujo#(42) 8865-6297#305.520.907-94#M
+5#Danilo Martins Gomes#(11) 9775-2282#358.049.458-90#M
+6#Manuela Almeida Santos#(12) 7685-4898#370.376.917-39#F
+7#Lucas Rocha Ribeiro#(27) 4133-8163#370.919.598-50#M
+8#Gabrielle Cunha Silva#(61) 2420-5708#385.250.973-49#F
+9#Isabelle Martins Correia#(51) 7817-8076#392.085.994-42#F
+10#Anna Martins#(48) 4530-8026#524.348.558-65#F
+11#Daniel Sousa Dias#(61) 8240-8940#589.332.655-54#M
+12#Emilly Pereira Gomes#(62) 8583-8705#717.033.002-46#F
+13#Julieta Sousa Rodrigues#(51) 8594-9314#738.742.775-50#F
+14#Luana Silva Oliveira#(11) 6467-2016#847.866.870-57#F
+15#Evelyn Castro Melo#(18) 9159-9801#885.824.957-73#F
+16#Luís Lima Oliveira#(81) 6216-7175#970.973.728-77#M
+17#Nicolas Costa Barros#(61) 9643-9080#979.020.871-57#M
